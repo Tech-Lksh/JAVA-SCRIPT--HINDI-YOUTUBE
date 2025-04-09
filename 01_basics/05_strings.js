@@ -16,7 +16,7 @@ const gameName = new String('hitesh-hc-com')
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('t'));
 
-const newString = gameName.substring(0, 4) // Substring Negative value nahi de sakte
+const newString = gameName.substring(0, 4) // Substring Negative value nahi de sakte hai
 console.log(newString);
  
 const anotherString = gameName.slice(-8, 4) // Slice Negative value de sakte hai

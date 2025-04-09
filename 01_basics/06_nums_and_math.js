@@ -1,7 +1,7 @@
 const score = 400
 // console.log(score);
 
-const balance = new Number(100)
+const balance = new Number(100) // Showing type = Number
 // console.log(balance);
 
 // console.log(balance.toString().length);
